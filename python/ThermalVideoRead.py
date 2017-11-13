@@ -1,3 +1,12 @@
+# Copyright Information
+# Copyright (c) 25-April-2016 by Youngjun Cho
+#
+# * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
+# * MSc in Robotics, BSc in ICT
+# * Email: youngjun.cho.15@ucl.ac.uk
+# * http://youngjuncho.com
+
+
 # improved the efficiency by using matrix calculation instead of interception
 # add astype('uint32') to resolve the problem of bit-overflow
 import numpy as np
